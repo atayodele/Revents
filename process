@@ -1,0 +1,18 @@
+mkdir Re-Event
+npx create-react-app revents
+cd revents
+
+code . ==> open it on vs code
+npm run start
+
+Install the following extension on vs code
+	1. Bracket Pair Colorizer
+	2. Auto Rename Tag
+	3. Debugger for chrome
+	4. Es7 React/Redux/GraphQl/React-Native snippets
+	5. ESLint
+	6. Material Icon Theme
+	7. Prettier - Code formatter
+	8. React Redux Firestore Course Snippets
+	
+npm shrinkwrap
